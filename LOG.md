@@ -104,3 +104,95 @@ Start Day 2: variables, data types, and operators.
 ### Next focus
 
 * Variables, data types, arithmetic operators, and clearer user input/output.
+
+# Day 2 Log - Variables, Data Types and Operators
+
+## Date
+
+Day 2
+
+## Planned focus
+
+Today I focused on Python variables, basic data types and arithmetic operators.
+
+## Concepts learned
+
+* A variable stores a value that can be reused later in the program.
+* `int` is used for whole numbers.
+* `float` is used for decimal numbers, especially values like money, distance and averages.
+* `str` is used for text.
+* `bool` stores `True` or `False`.
+* `input()` collects user input, but the value comes in as text, so I need to convert it using `int()` or `float()` before doing calculations.
+* Arithmetic operators can be used to perform calculations:
+
+  * `+` for addition
+  * `-` for subtraction
+  * `*` for multiplication
+  * `/` for normal division
+  * `//` for floor division
+  * `%` for remainder
+  * `**` for power
+
+## Programs built
+
+1. `unit_converter.py`
+
+   * Took a distance input from the user.
+   * Converted the value into the correct numeric type.
+   * Applied a conversion formula.
+   * Printed the converted result clearly.
+
+2. `bill_splitter.py`
+
+   * Took the total bill amount.
+   * Took the number of people.
+   * Divided the bill equally.
+   * Printed how much each person should pay.
+
+3. `simple_calculator.py`
+
+   * Took two numbers from the user.
+   * Performed multiple arithmetic operations.
+   * Displayed the answers with clear labels.
+
+## Main logic I understood
+
+The general structure of all three programs was:
+
+1. Ask the user for input.
+2. Convert the input into the correct data type.
+3. Store values in variables.
+4. Use arithmetic operators to calculate the result.
+5. Print the final result in a readable format.
+
+## Errors or difficulties faced
+
+* I had to remember that `input()` gives a string, even when the user enters a number.
+* I had to use `float()` for decimal values.
+* I had to use `int()` for whole-number values like number of people.
+* I need to be careful with division and avoid dividing by zero for now.
+
+## Testing completed
+
+* Tested the unit converter with small and decimal values.
+* Tested the bill splitter with different bill amounts and number of people.
+* Tested the calculator with different pairs of numbers.
+
+## Files completed
+
+* `day_02/unit_converter.py`
+* `day_02/bill_splitter.py`
+* `day_02/simple_calculator.py`
+
+## Actual hours studied
+
+Planned hours: 5
+Actual hours: ___
+
+## Reflection
+
+Today I became more comfortable using variables, data types and arithmetic operators. I understood that most beginner programs follow the same basic pattern: input, conversion, calculation and output.
+
+## Next starting point
+
+Next, I need to move toward strings, type conversion, f-strings and cleaner output formatting.
