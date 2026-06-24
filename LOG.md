@@ -196,3 +196,69 @@ Today I became more comfortable using variables, data types and arithmetic opera
 ## Next starting point
 
 Next, I need to move toward strings, type conversion, f-strings and cleaner output formatting.
+
+
+# Day 3 Log - Strings and Type Conversion
+
+## Date
+
+24 June 2026
+
+## Topics Learned
+
+* Used `input()` to take user input.
+* Understood that `input()` always stores values as strings.
+* Used `int()` to convert whole-number input.
+* Used `float()` to convert decimal-number input.
+* Used f-strings to display clean output.
+* Used string methods such as `.strip()`, `.title()`, and `.lower()`.
+
+## Files Created
+
+* `name_formatter.py`
+* `price_calculator.py`
+
+## Programs Completed
+
+### 1. Name Formatter
+
+Created a program that:
+
+* Takes first name and last name as input.
+* Removes extra spaces.
+* Formats the name in title case.
+* Creates a lowercase username.
+* Displays initials.
+
+### 2. Price Calculator
+
+Created a program that:
+
+* Takes item name, price, quantity, discount percentage, and tax/GST percentage.
+* Converts user input into correct number types.
+* Calculates subtotal.
+* Applies discount.
+* Applies tax/GST.
+* Prints a formatted receipt with two decimal places.
+
+## What I Understood
+
+Today I understood that user input needs to be converted before doing calculations. I also learned how string methods help clean and format messy text input. I practiced using f-strings to make the output easier to read.
+
+## Difficulties Faced
+
+* Remembering that `input()` returns a string even when the user types a number.
+* Understanding when to use `int()` and when to use `float()`.
+* Formatting prices correctly to two decimal places using `:.2f`.
+
+## Status
+
+Completed
+
+## Actual Study Time
+
+[Write your actual time here]
+
+## Next Step
+
+Move to Day 4: conditions using `if`, `elif`, and `else`.
