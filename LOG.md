@@ -259,6 +259,43 @@ Completed
 
 [Write your actual time here]
 
-## Next Step
 
-Move to Day 4: conditions using `if`, `elif`, and `else`.
+
+# Day 4 - Conditions
+
+## Topics Learned
+- if statements
+- elif statements
+- else statements
+- Comparison operators
+- Indentation
+- Pass/fail logic
+- Basic grading logic
+
+## Programs Built
+
+### 1. even_odd.py
+Checks whether a number is even or odd.
+
+### 2. eligibility_checker.py
+Checks whether a person is eligible based on age.
+
+### 3. grading_program.py
+Converts a mark into a grade.
+
+### 4. marks_checker.py
+Checks subject mark, pass/fail result and grade.
+
+## What I Practised
+- Writing decision-based programs.
+- Using comparison operators like >=, <, > and ==.
+- Using if, elif and else correctly.
+- Keeping indentation correct.
+- Creating a marks checker with pass/fail logic.
+
+## Difficulties
+- Remembering that Python needs correct indentation.
+- Understanding that elif order matters.
+
+## Status
+Completed Day 4 conditions practice.
