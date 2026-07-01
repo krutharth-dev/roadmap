@@ -300,6 +300,8 @@ Checks subject mark, pass/fail result and grade.
 ## Status
 Completed Day 4 conditions practice.
 
+
+
 ## Day 5 - Boolean Logic and Input Validation
 
 ### Topics Covered
@@ -334,3 +336,38 @@ Completed Day 4 conditions practice.
 
 ### Status
 Completed.
+
+## Day 6 - Marks Calculator v1
+
+### Topics Covered
+- Planning inputs
+- Calculating total marks
+- Calculating average marks
+- Calculating percentage
+- Finding highest mark
+- Finding lowest mark
+- Pass/fail logic
+- Grade logic
+
+### Files Created
+- week1/day6/marks_calculator_v1.py
+
+### Program Completed
+1. Marks Calculator v1
+   - Takes marks for multiple subjects.
+   - Calculates total.
+   - Calculates average.
+   - Calculates percentage.
+   - Finds highest and lowest marks.
+   - Displays pass/fail result.
+   - Displays grade.
+
+### What I Practised
+- Combining input, calculations and conditions in one program.
+- Using max() and min().
+- Formatting a clean marks report.
+- Planning the program before coding.
+
+### Status
+Completed.
+
