@@ -371,3 +371,33 @@ Completed.
 ### Status
 Completed.
 
+## Day 7 - Functions and Week 1 Review
+
+### Topics Covered
+- Functions
+- Parameters
+- Return values
+- print() vs return
+- Refactoring
+- Week 1 revision
+
+### Files Created
+- week1/day7/marks_calculator_v2.py
+- week1/day7/week1_review.md
+
+### Programs Completed
+1. Marks Calculator v2
+   - Refactored the Marks Calculator v1 into functions.
+   - Used functions for total, average, percentage, grade and result.
+
+2. Week 1 Review Notes
+   - Reviewed variables, data types, input, type conversion, conditions, Boolean logic and functions.
+
+### What I Practised
+- Breaking a long program into smaller functions.
+- Using parameters to pass values into functions.
+- Using return values to reuse calculated results.
+- Making code easier to read and modify.
+
+### Status
+Completed.
