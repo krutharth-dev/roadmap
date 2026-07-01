@@ -299,3 +299,38 @@ Checks subject mark, pass/fail result and grade.
 
 ## Status
 Completed Day 4 conditions practice.
+
+## Day 5 - Boolean Logic and Input Validation
+
+### Topics Covered
+- Boolean values
+- and
+- or
+- not
+- Range validation
+- Invalid input handling
+- Simple password rule checking
+
+### Files Created
+- week1/day5/mark_validator.py
+- week1/day5/password_rule_checker.py
+- week1/day5/range_checker.py
+
+### Programs Completed
+1. Mark Validator
+   - Checks whether a mark is valid.
+   - Rejects marks below 0 or above 100.
+
+2. Password Rule Checker
+   - Checks simple password rules using Boolean logic.
+
+3. Range Checker
+   - Practises checking whether numbers are inside an allowed range.
+
+### What I Practised
+- Combining conditions using and, or and not.
+- Rejecting invalid input before using it.
+- Writing cleaner decision logic.
+
+### Status
+Completed.
